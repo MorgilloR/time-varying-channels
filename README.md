@@ -4,7 +4,7 @@ This repository contains the code accompanying the paper:
 
 **Title:** _Learning Time-Varying Quantum Lossy Channels_  
 **Authors:** Angela Rosy Morgillo*, Stefano Mancini, Massimiliano F. Sacchi and Chiara Macchiavello  
-**Reference:** Angela Rosy Morgillo, Stefano Mancini, Massimiliano F. Sacchi, and Chiara Macchiavello 
+**Reference:** Angela Rosy Morgillo, Stefano Mancini, Massimiliano F. Sacchi, and Chiara Macchiavello <br>
 <i>*"Learning Time-Varying Quantum Lossy Channels"*</i> (2025)
 
 
