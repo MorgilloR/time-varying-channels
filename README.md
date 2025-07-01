@@ -5,6 +5,8 @@ This repository contains the code accompanying the paper:
 **Title:** _Learning Time-Varying Quantum Lossy Channels_  
 **Authors:** Angela Rosy Morgillo*, Stefano Mancini, Massimiliano F. Sacchi and Chiara Macchiavello  
 **Reference:** Angela Rosy Morgillo, Stefano Mancini, Massimiliano F. Sacchi, and Chiara Macchiavello <i>*"Learning Time-Varying Quantum Lossy Channels"*</i> (2025)
+Reference: Simone Roncallo, Angela Rosy Morgillo, Chiara Macchiavello, Lorenzo Maccone and Seth Lloyd <i>“Quantum optical classifier with superexponential speedup”</i> (2024)
+
 
 > Time-varying quantum channels are essential for modeling realistic quantum systems with evolving noise properties.  
 > In this work, we study *Gaussian lossy channels* that vary from one use to another.  
