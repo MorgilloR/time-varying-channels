@@ -10,7 +10,7 @@ This repository contains the code accompanying the paper:
 
 > Time-varying quantum channels are essential for modeling realistic quantum systems with evolving noise properties.  
 > In this work, we study *Gaussian lossy channels* that vary from one use to another.  
-> Neural networks are employed to **classify**, **regress**, and **forecast** these channels based on their Choi-Jamiolkowski states.
+> Neural networks are employed to **classify**, **regress**, and **forecast** these channels based on their Choi-Jamio\{l} kowski states.
 
 ## 📁 Project Structure
 - `tvc.py`: Contains the core functions used throughout the project and imported by the other scripts.
