@@ -10,12 +10,6 @@ This repository contains the code accompanying the paper:
 > In this work, we study *Gaussian lossy channels* that vary from one use to another.  
 > Neural networks are employed to **classify**, **regress**, and **forecast** these channels based on their Choi-Jamiolkowski states.
 
-The models achieve:
-- 📊 At least **87% accuracy** in classifying **memoryless**, **Markovian**, **non-Markovian**, **compound**, and **deterministic** channels.
-- 📈 Precise reconstruction (regression) of the time-varying **loss parameter sequence**.
-- 🔮 Accurate forecasting of future values, with performance improving as the **memory parameter approaches 1**.
-
-
 ## 📁 Project Structure
 - `tvc.py`: Contains the core functions used throughout the project and imported by the other scripts.
 - `classification.ipynb`: Code for generating datasets and training neural networks to classify quantum channel types (e.g., memoryless, Markovian, non-Markovian, compound, deterministic).
