@@ -4,7 +4,8 @@ This repository contains the code accompanying the paper:
 
 **Title:** _Learning Time-Varying Quantum Lossy Channels_  
 **Authors:** Angela Rosy Morgillo*, Stefano Mancini, Massimiliano F. Sacchi and Chiara Macchiavello  
-**Reference:** Morgillo, A. R., Mancini, S., Sacchi, M. F., & Macchiavello, C. (2025). Learning Time-Varying Quantum Lossy Channels. arXiv preprint arXiv:2504.12810
+**Reference:** Angela Rosy Morgillo, Stefano Mancini, Massimiliano F. Sacchi, and Chiara Macchiavello 
+*"Learning Time-Varying Quantum Lossy Channels"* (2025)
 
 > Time-varying quantum channels are essential for modeling realistic quantum systems with evolving noise properties.  
 > In this work, we study *Gaussian lossy channels* that vary from one use to another.  
