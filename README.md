@@ -6,3 +6,5 @@ This repository contains the code accompanying the paper:
 **Date:** June 30, 2025  
 **arXiv:** [2504.12810](https://arxiv.org/abs/2504.12810)  
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2504.12810-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.12810)
